@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://demodfc-qov6.vercel.app/sitemap.xml
+Sitemap: https://demodfc.vercel.app/sitemap.xml
